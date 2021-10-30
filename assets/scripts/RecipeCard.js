@@ -1,8 +1,8 @@
 class RecipeCard extends HTMLElement {
   constructor() {
-    // Part 1 Expose - TODO
-
+    super();
     // You'll want to attach the shadow DOM here
+
   }
 
   set data(data) {
@@ -87,6 +87,17 @@ class RecipeCard extends HTMLElement {
 
     // Here's the root element that you'll want to attach all of your other elements to
     const card = document.createElement('article');
+    const thumbnail = document.createElement('img');
+    const title = document.createElement('p');
+    const org = document.createElement('p');
+    const titleLink = document.createElement('a');
+    const ratingDiv = document.createElement('div');
+    const ratingVal = document.createElement('span');
+    const ratingStars = document.createElement('img');
+    const ratingNumReviews = document.createElement('span');
+    const cookTime = document.createElement('time');
+    const ingredients = document.createElement('p');
+
 
     // Some functions that will be helpful here:
     //    document.createElement()
@@ -99,10 +110,56 @@ class RecipeCard extends HTMLElement {
     // Make sure to attach your root element and styles to the shadow DOM you
     // created in the constructor()
 
-    // Part 1 Expose - TODO
+    // create the thumbnail and its alt text
+    thumbnail.setAttribute('src', searchForKey(data, 'thumbnailUrl'));
+    thumbnail.setAttribute('alt', searchForKey(data, 'headline'));
+    card.appendChild(thumbnail);
+
+    // create the title and its link
+    title.setAttribute('class', "title");
+    titleLink.setAttribute('href', getUrl(data));
+    titleLink.textContent = searchForKey(data, 'headline');
+    title.appendChild(titleLink);
+    card.appendChild(title);
+    
+    // set the organization
+    org.setAttribute('class', "organization");
+    org.textContent = getOrganization(data);
+    card.appendChild(org);
+
+    // create the ratings section if it exists
+    ratingDiv.setAttribute('class', "rating");
+    let ratingValue = searchForKey(data, 'ratingValue')
+    if (ratingValue != undefined) {
+      ratingVal.textContent = ratingValue;
+      ratingDiv.appendChild(ratingVal);
+
+      ratingStars.setAttribute('src', "/assets/images/icons/" + Math.round(ratingValue) + "-star.svg");
+      ratingStars.setAttribute('alt', Math.round(ratingValue));
+      ratingDiv.appendChild(ratingStars);
+
+      ratingNumReviews.textContent = '(' + searchForKey(data, 'ratingCount') + ')';
+      ratingDiv.appendChild(ratingNumReviews);
+    } else {
+      ratingVal.textContent = "No Reviews"
+      ratingDiv.appendChild(ratingVal);
+    }
+    card.appendChild(ratingDiv);
+
+    // add recipe cook time
+    cookTime.textContent = convertTime(searchForKey(data, 'totalTime'));
+    card.appendChild(cookTime);
+
+    // add list of ingredients
+    ingredients.setAttribute('class', "ingredients");
+    ingredients.textContent = createIngredientList(searchForKey(data, 'recipeIngredient'));
+    card.appendChild(ingredients);
+
+    const shadow = this.attachShadow({mode: 'open'});
+    shadow.appendChild(styleElem);
+    shadow.appendChild(card);
   }
 }
-
 
 /*********************************************************************/
 /***                       Helper Functions:                       ***/
@@ -227,3 +284,11 @@ function createIngredientList(ingredientArr) {
 // Define the Class so you can use it as a custom element.
 // This is critical, leave this here and don't touch it
 customElements.define('recipe-card', RecipeCard);
+
+
+
+
+
+
+
+// comment so vs
