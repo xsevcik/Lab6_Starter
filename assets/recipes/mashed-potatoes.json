@@ -1,0 +1,216 @@
+{
+    "@context": "http://schema.org",
+    "url": "https://www.thepioneerwoman.com/food-cooking/recipes/a12083/delicious-creamy-mashed-potatoes/",
+    "publisher": {
+        "@type": "Organization",
+        "name": "The Pioneer Woman",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://assets.hearstapps.com/sites/thepioneerwoman/assets/images/logos/logo-jsonld.f682059.png",
+            "width": 250,
+            "height": 60
+        }
+    },
+    "@type": "Recipe",
+    "author": {
+        "name": "Ree Drummond",
+        "@type": "Person"
+    },
+    "datePublished": "2007-11-03T14:07:47Z",
+    "headline": "Delicious, Creamy Mashed Potatoes",
+    "image": {
+        "@type": "ImageObject",
+        "height": 1067,
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/creamy-mashed-potatoes-recipe-1633661692.jpg?crop=0.670xw:1.00xh;0.120xw,0&resize=100:*",
+        "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/creamy-mashed-potatoes-recipe-1633661692.jpg",
+        "width": 1600
+    },
+    "mainEntityOfPage": {
+        "@id": "https://www.thepioneerwoman.com/food-cooking/recipes/a12083/delicious-creamy-mashed-potatoes/",
+        "@type": "WebPage"
+    },
+    "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/creamy-mashed-potatoes-recipe-1633661692.jpg?crop=0.670xw:1.00xh;0.120xw,0&resize=100:*",
+    "dateModified": "2021-10-21T20:25:00Z",
+    "name": "Delicious, Creamy Mashed Potatoes",
+    "prepTime": "PT1H",
+    "cookTime": "PT30M",
+    "totalTime": "PT1H30M",
+    "recipeIngredient": [
+        "5 lb. russet or Yukon Gold potatoes",
+        "3/4 c. butter",
+        "1 package (8 oz.) cream cheese, softened",
+        "1/2 c. (to 3/4 cups) half-and-half",
+        "1/2 tsp. <p>(to 1 teaspoon) Lawry's Seasoned Salt</p>",
+        "1/2 tsp. <p>(to 1 teaspoon) black pepper</p>"
+    ],
+    "recipeInstructions": "Peel and cut the potatoes into pieces that are generally the same size. Bring a large pot of water to a simmer and add the potatoes.  Bring to a boil and cook for 30 to 35 minutes. When they’re cooked through, the fork should easily slide into the potatoes with no resistance, and the potatoes should almost, but not totally, fall apart. Drain the potatoes in a large colander. When the potatoes have finished draining, place them back into the dry pot and put the pot on the stove.  Mash the potatoes over low heat, allowing all the steam to escape, before adding in all the other ingredients. Turn off the stove and add 1 ½ sticks of butter, an 8-ounce package of cream cheese and about ½ cup of half-and-half. Mash, mash, mash! Next, add about ½ teaspoon of Lawry’s Seasoning Salt and ½ a teaspoon of black pepper. Stir well and place in a medium-sized baking dish. Throw a few pats of butter over the top of the potatoes and place them in a 350-degree oven and heat until butter is melted and potatoes are warmed through. <br>",
+    "video": [],
+    "recipeCuisine": [
+        "American",
+        "Comfort Food"
+    ],
+    "aggregateRating": {
+        "@context": "http://schema.org/",
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "reviewCount": 8,
+        "worstRating": 1,
+        "bestRating": 5
+    },
+    "review": [
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-08-28",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "lee7272"
+            },
+            "reviewBody": "I’ve been making these since I first found the recipe years ago, absolutely delicious. I know mashed potatoes and gravy go hand in hand but I never need gravy with these.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-12-24",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Annehhhh"
+            },
+            "reviewBody": "I am 73 years old and never was a very good cook.  This year with plenty of time on my hands, I’ve baked pie, breads and cookies, and I made these mashed potatoes!  Thank you, Ree, for all you do to help ALL ages of us cook delicious and beautiful dishes!  Can’t wait for my kids and grands to try these!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-11-22",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "jlb7988"
+            },
+            "reviewBody": "I’ve made these mashed potatoes for a few years now. I follow this recipe exactly.  Everyone LOVES them. No need to change a thing!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-10-31",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "con2174"
+            },
+            "reviewBody": "Made them ahead of time. Put them on warm in the crockpot. Freed up the oven.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-10-26",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "grandmacandy"
+            },
+            "reviewBody": "Made these today to go with my Chicken Marsala. Left out the seasoned salt because of guests dietary needs. They warmed up beautifully! Everyone loved them, delicious!! Will never wait till last minute to make mashed potatoes. So nice to do ahead!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2021-10-15",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "san4361"
+            },
+            "reviewBody": "I have not tried these yet but plan to.  I so agree with an old fashioned masher instead of a mixer.  To me they come out looking and tasting like glue!  Give me mashed with a masher potatoes any day.  I don't mind the mashing.  it is a feel good kind of thing for me!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2021-10-15",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "JanniB"
+            },
+            "reviewBody": "Try some grated cheese (leave butter out in this case) on top of the spuds prior to going in the oven..  with a dash of paprika mainly for colour!  We love our cheese mashed into the potato too..   In fact mashed potato any way is manna from heaven..  We don't do Thanks Giving here (Australia) - any day is Mashed Spud Day for me.  Another trick is to cook some pumpkin with the spuds and it becomes 'Golden Mashed Potato'..  Very yummy.  Go easy on the milk if you use pumpkin - can make it too mushy.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-08-02",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "dia2179"
+            },
+            "reviewBody": "These are so good.  I was a little skeptical about putting the in the oven, but oh so good!!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        }
+    ],
+    "recipeCategory": [
+        "Thanksgiving",
+        "comfort food",
+        "dinner",
+        "side dish",
+        "snack"
+    ],
+    "recipeYield": "10 servings",
+    "description": "A little half and half makes these creamy mashed potatoes just right. Bonus: You can make this recipe ahead of time and simply warm when ready to serve.",
+    "keywords": "Recipes, Cooking, Food"
+}

@@ -1,0 +1,268 @@
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "Recipe"
+    ],
+    "headline": "Eggnog",
+    "datePublished": "2010-02-02T19:00:00.000-05:00",
+    "dateModified": "2021-06-20T15:11:02.829-04:00",
+    "url": "https://www.simplyrecipes.com/recipes/eggnog/",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Elise Bauer",
+            "thumbnailUrl": "https://www.simplyrecipes.com/thmb/iSPb8EPUfLHSORC50KtexN-H44Y=/1800x1012/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-horiz-a-1800-a3cb37e4dbc54e3293d71c707a678009.jpg",
+            "description": "Elise founded Simply Recipes in 2003 and led the site until 2019. She has an MA in Food Research from Stanford University.",
+            "jobTitle": "Founder",
+            "sameAs": [
+                "https://www.instagram.com/elisebauer/",
+                "https://www.simplyrecipes.com/elise-bauer-5091824"
+            ],
+            "knowsAbout": [
+                "Scratch cooking with whole ingredients"
+            ],
+            "alumniOf": [
+                {
+                    "@type": "Organization",
+                    "Name": "Stanford University: BS in Environmental Science; MA in Food Research; MBA from the Graduate School of Business "
+                }
+            ]
+        }
+    ],
+    "description": "Homemade Eggnog is EASY to make! Plus, it doesn&#39;t have all the fillers of the store-bought stuff. Just cream, sugar, eggs, and spices. Enjoy it spiked or without alcohol for a kid-friendly version.",
+    "image": [
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/iSPb8EPUfLHSORC50KtexN-H44Y=/1800x1012/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-horiz-a-1800-a3cb37e4dbc54e3293d71c707a678009.jpg",
+            "height": 1012,
+            "width": 1800
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/clSU0LXgFWHJTJPk__boBK74GSI=/1600x1200/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-horiz-a-1800-a3cb37e4dbc54e3293d71c707a678009.jpg",
+            "height": 1200,
+            "width": 1600
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/S7QzFCe6mpKaviOjLjohMm5EtMs=/1200x1200/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-horiz-a-1800-a3cb37e4dbc54e3293d71c707a678009.jpg",
+            "height": 1200,
+            "width": 1200
+        }
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Simply Recipes",
+        "url": "https://www.simplyrecipes.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+            "width": 1125,
+            "height": 320
+        },
+        "brand": "Simply Recipes",
+        "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+    },
+    "name": "Eggnog",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "43"
+    },
+    "cookTime": "PT20M",
+    "keywords": "Christmas, Drink, Egg, Eggnog, Holiday, American",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "375 kcal",
+        "carbohydrateContent": "31 g",
+        "cholesterolContent": "268 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "122 mg",
+        "sugarContent": "31 g",
+        "fatContent": "22 g",
+        "servingSize": "Makes 1 quart, serves 4-6",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Drink",
+        "Christmas",
+        "Drink",
+        "Egg",
+        "Eggnog",
+        "Holiday"
+    ],
+    "recipeCuisine": [
+        "American"
+    ],
+    "recipeIngredient": [
+        "6 egg yolks (decrease to 4 egg yolks if you would like it less rich)",
+        "3/4 cup sugar (decrease to 1/2 cup if you would like it less sweet)",
+        "2 cups milk (we use 2% milk)",
+        "2 whole cloves",
+        "Pinch of cinnamon",
+        "1 cup heavy cream",
+        "1 teaspoon freshly grated nutmeg (lightly packed)",
+        "1 1/2 teaspoons vanilla extract",
+        "2 tablespoons each of bourbon and rum, or to taste (can omit for kid-friendly eggnog)",
+        "4 egg whites (optional)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/gF1c7f3ZCsSu0KqILV8dc4JpzAQ=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-2-242816171049493e9447e24aacee791e.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Beat egg yolks, then add sugar: In a large bowl, use a whisk or an electric mixer to beat egg yolks until they become somewhat lighter in color. Slowly add the sugar, beating after each addition. Beat at high speed or whisk until fluffy."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/JPlZzAQEXEPFGKXDrd7RzdH1Tq0=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-3-31fea950a3844711ae90e5eeba4138d1.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Heat milk with cinnamon and cloves: Combine the milk, cloves, and cinnamon in a thick-bottomed saucepan. Slowly heat on medium heat until the milk mixture is steamy hot, but not boiling."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/Vk4mJ6yWIzrUQ0PHEecaLE6GxSc=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-5-d1692b3e05a64dd5b44234a97e57f9cd.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Temper the eggs: Add the eggs by slowly adding half of the hot milk mixture into the eggs, whisking constantly while you add the hot mixture. Pour the mixture back into the saucepan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/kEKLMzRiBq7zwwWA2k4KkZCOo7Y=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-6-027d99cd31d24a6f818cbbb4301550f2.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Cook until eggnog thickens: Cook the eggnog on medium heat, stirring constantly with a wooden spoon, until the mixture begins to thicken slightly, and coats the back of the spoon. It helps to have a candy thermometer, but not necessary; if you have one, cook until the mixture reaches 160°F. Do not allow the mixture to boil, or it will curdle. (If the mixture does curdle you may be able to save it by running it through a blender.)"
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/XKgPQhqh9hvDyJqNw8bwWQbGABc=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-7-92ca236f984b4ea5ba25a886c88f7d0f.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Remove from heat and stir in the cream."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/AgK0UgC1wsKWkjhq553hiVdTdQI=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-8-343637d3b38a49268cf46d8a397a9eab.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Strain and chill: Strain the mixture through a mesh strainer to remove the cloves and any curdled bits that may have formed. Let cool for one hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/5ff1wPPimYrPH7msdy-hLWAXb3Q=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__12__eggnog-method-9-217a14c7b07f4bfdbc333f0904000e4b.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Stir in vanilla extract, nutmeg, and bourbon and rum: Feel free to omit for kid-friendly eggnog and proceed to chill."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "If you you want to include egg whites (optional): Beat egg whites with an electric mixer until they reach soft peaks. Add a teaspoon of sugar and continue to beat until they reach stiff peaks. Gently fold into eggnog. Note that because of the salmonella risk from raw eggs, it is recommended that children, elderly, and people with compromised immune systems refrain from eating raw eggs such as the optional whipped egg whites in this recipe, unless you use pasteurized eggs. You can also reheat the combined eggnog and egg white mixture until it reaches 160°F, then remove from heat and let cool, then chill. The mixture will lose some of its fluffiness from the beaten egg whites, but not all, and the eggnog will be much airier than without the egg whites."
+        }
+    ],
+    "recipeYield": "6",
+    "totalTime": "PT85M",
+    "review": [
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Rachel"
+            },
+            "reviewBody": "For years my kids begged me to make homemade eggnog, and this year I finally got up the nerve to try it. I had the heat on medium, which ended up being too hot and curdled the eggs, but a hand blender saved the day - thanks for the tip! It ended up tasting delicious, and we made it a few more times with different variations. My kids like it better without the egg whites mixed in. A terrific, carefully explained recipe that even a nervous novice could follow. Thank you!"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Marie-Anne"
+            },
+            "reviewBody": "Brilliant!! And so easy to make. I am in the UK, so eggnog not really something we have. Having watched a lot of American Xmas films, eggnog is a staple. I did look at some UK sites, but as I wanted authenticity, I was very happy to find your site. Am now passing the recipe out to friends.\nDefinitely going to be a Xmas tradition in future."
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Carlotta"
+            },
+            "reviewBody": "So rich and full of flavor. Absolutely delicious. I leave it alcohol free so everyone can decide what alcohol they'd like to add if they do and how strong . My partner and I love bourbon in our nog, but the rest of my family prefer rum. It's also even better if you leave it to chill over night so all the spices can really steep into the eggnog. 5/5 and a new Christmas tradition for us!"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Jelena"
+            },
+            "reviewBody": "I remember my grandma used to make it, but over here it's known under it's German name, eierkognak. I recall it had alcohol from the pharmacy, not your regular liquor. However, it was overpowering for me. I might give it a go with less alcohol. Happy holidays!"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Sam"
+            },
+            "reviewBody": "Never even tried eggnog before, but gave this a go with my teenage daughter. It's beautiful!"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@type": [
+            "WebPage"
+        ],
+        "@id": "https://www.simplyrecipes.com/recipes/eggnog/",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/cocktail-recipes-5091324",
+                        "name": "Cocktails"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/classic-cocktail-recipes-5091322",
+                        "name": "Classic Cocktails"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/recipes/eggnog/",
+                        "name": "Traditional Eggnog Recipe {Vanilla &amp; Nutmeg}"
+                    }
+                }
+            ]
+        }
+    },
+    "about": []
+}

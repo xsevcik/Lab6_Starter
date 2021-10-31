@@ -1,0 +1,468 @@
+{
+
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "@id": "https://www.tasteofhome.com/recipes/easy-pumpkin-pie/",
+    "url": "https://www.tasteofhome.com/recipes/easy-pumpkin-pie/",
+    "name": "Easy Pumpkin Pie",
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT60M",
+    "image": [
+        "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Easy-Pumpkin-Pie_EXPS_TGCBBZ17_37434_D05_03_5b.jpg",
+        [
+            "https://cdn3.tmbi.com/toh/GoogleImages/Easy-Pumpkin-Pie_EXPS_TGCBBZ17_37434_D05_03_5b.jpg"
+        ],
+        [
+            "https://cdn3.tmbi.com/toh/GoogleImagesPostCard/Easy-Pumpkin-Pie_EXPS_TGCBBZ17_37434_D05_03_5b.jpg"
+        ]
+    ],
+    "recipeCategory": [
+        "Desserts"
+    ],
+    "description": "Pumpkin pie does not have to be difficult to make. This <a href=\"https://www.tasteofhome.com/collection/unbelievably-easy-thanksgiving-desserts/\">easy Thanksgiving dessert</a> recipe has a wonderful taste and will be a hit at your holiday meal. &mdash;Marty Rummel, Trout Lake, Washington",
+    "recipeIngredient": [
+        "3 large eggs",
+        "1 cup canned pumpkin",
+        "1 cup evaporated milk",
+        "1/2 cup sugar",
+        "1/4 cup maple syrup",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground nutmeg",
+        "1/2 teaspoon maple flavoring",
+        "1/2 teaspoon vanilla extract",
+        "1 frozen deep-dish pie crust (9 inches)",
+        "1 sheet refrigerated pie crust, optional",
+        "Whipped cream, optional"
+    ],
+    "recipeInstructions": "In a large bowl, beat the first 10 ingredients until smooth; pour into pie crust. Cover edge loosely with foil. ,    Bake at 400&deg; for 10 minutes. Reduce heat to 350&deg;; bake 40-45 minutes longer or until a knife inserted in the center comes out clean. Remove foil. Cool on a wire rack.,    If decorative cutouts are desired, roll pie crust to 1/8-in. thickness; cut out with 1-in. to 1-1/2-in. leaf-shaped cookie cutters. With a sharp knife, score leaf veins on cutouts.,    Place on an ungreased baking sheet. Bake at 400&deg; for 6-8 minutes or until golden brown. Remove to a wire rack to cool. Arrange around edge of pie. Garnish with whipped cream if desired.",
+    "recipeYield": "8 servings.",
+    "author": {
+        "@type": "Organization",
+        "name": "Taste of Home"
+    },
+    "headline": "Easy Pumpkin Pie",
+    "thumbnailUrl": "https://cdn3.tmbi.com/toh/GoogleImagesPostCard/Easy-Pumpkin-Pie_EXPS_TGCBBZ17_37434_D05_03_5b.jpg",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Taste of Home"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": " 275 calories",
+        "fatContent": "11g fat (5g saturated fat)",
+        "cholesterolContent": "94mg cholesterol",
+        "sodiumContent": "306mg sodium",
+        "carbohydrateContent": "38g carbohydrate (24g sugars",
+        "fiberContent": "1g fiber)",
+        "proteinContent": "6g protein. "
+    },
+    "review": [
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2016-11-30",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Mamacheese2004"
+            },
+            "reviewBody": "The name isn't lying. It really is easy. I love the addition of maple to the pumpkin pie. It's absolutely delicious! Do not mistake the maple syrup for pancake syrup. You want 100% real maple syrup.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2010-11-29",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "cats4me"
+            },
+            "reviewBody": "Very happy with this recipe.  It  definitely isvery easy & flavor is great.  Was worried that the maple flavor would be overwhelming solistened to another review & cut it to 1/4 tsp. Husband & daughter totally satisfied.This is a keeper, & will always use this recipe.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2013-02-06",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "MmeBlaise"
+            },
+            "reviewBody": "Yummy!  I omitted the maple flavoring and it still tasted great.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2009-10-29",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Kromwel"
+            },
+            "reviewBody": "This was so easy to make however, I did find that it makes more filling than a regular 9\" pie shell can hold. Next time I plan to make a double batch of filling and divide it between 3 pie shells. Also I found the maple flavouring a little strong so next time I will reduce this to 1/4 tsp.  All in all, I was really pleased this recipe and definitely plan to make it again with minor adjustments.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2010-11-25",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "mecdunn"
+            },
+            "reviewBody": "This is *by far* the Best pumpkin pie I've ever had! It got raves at tonight's Thanksgiving dinner. I skipped the maple flavoring and it was great anyway.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-11-28",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Nandy "
+            },
+            "reviewBody": "I loved this! The maple syrup gave this pie a sweet, maple hint. This was the hit of our Thanksgiving meal! Our guests who came over, are asked me for this recipe. I have been baking it for a few years, and it never fails! Please make this if you haven't yet!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2020-12-02",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "pajamaangel"
+            },
+            "reviewBody": "I enjoyed this way more than traditional pumpkin pie as did my children.  The maple syrup gave it a mildly sweeter taste.  I will be using this recipe again.  I did not put the extra crust shapes on top, but topped it with whipped cream instead.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2012-11-22",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Machensmama"
+            },
+            "reviewBody": "Very yummy and easy to make.  Wonderful maple flavor. The only negative to me was that I couldn't taste the pumpkin.  I was glad I still made my pumpkin pie along with this.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2009-12-03",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "DiAnna080302"
+            },
+            "reviewBody": "I baked and served this pie at our Thanksgiving dinner.  What a huge hit! It was absolutely delicious and so easy to make.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2010-11-22",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "LeLimey"
+            },
+            "reviewBody": "I've just made my first ever pumpkin pie and I used this recipe. I read the comment below about it not turning out well and I was a little daunted. I decided to try it today so that I could do something else for Thanksgiving if it failed but..I'm so excited!!It looked beautiful coming out of the oven and the smell was divine. I made leaves to decorate it and glazed them with egg white and sugar to edge the pie.It looked so lovely, I was so proud of it but it didn't look a tenth as good as it tasted! Thank you for a wonderful recipe, a fantastic first ever time baking such an all American classic and even better - I get to make another on Wednesday for Thanksgiving dinner!!! (My first ever Thanksgiving dinner in America too!)",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2018-10-09",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "mom2lauren"
+            },
+            "reviewBody": "So delicious!  Our guests for Thanksgiving left with this recipe!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2011-11-16",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Sugarbearchef"
+            },
+            "reviewBody": "Since trying this pumpkin pie, it's the only recipie I use.  The maple syrup makes it exceptional so that even people who don't like Pumpkin pie love it.  I also love the leaf cut outs.  This year I might try using sqaush instead of pumpkin in it.  It's the best pie we've tried.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2010-11-23",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "JoBish"
+            },
+            "reviewBody": "This is the pumpkin pie recipe we've been using since it was first published in the magazine! We love it.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2014-08-29",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "jmkasprak"
+            },
+            "reviewBody": "While the recipe was very good as written, I've made some changes to get perfect for us: replaced maple syrup with molasses, decreased cinnamon to 1/2 tsp, and eliminated the maple flavoring.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2009-11-25",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "avales"
+            },
+            "reviewBody": "Even my pickest eater loved this pie!  This pie was super easy and quick to put together. Not a single piece was left.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2013-04-01",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "lizjohnston1"
+            },
+            "reviewBody": "Just remember not to let them just how easy it was .Recieved many compliments on this pumpkin pie! Definetly a keeper",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2011-02-09",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Miss Olivia Jean"
+            },
+            "reviewBody": "My mom made this for a Baking Contest and won 1st Place! We make this every year!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2009-12-09",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "msslab"
+            },
+            "reviewBody": "So easy & so good.  I used my pumpkin pie spice 1 TBLSP instead of the cinnamon & nutmeg it called for.  Was so good I had to make another one right away and put in the freezer to have at Christmas!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2009-10-18",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "squire67"
+            },
+            "reviewBody": "This is by far the easiest and best-tasting pumpkin pie I have ever made!  My husband could not stop raving about how delicious it was and how the maple syrup gave it a nice fall flavor without being overpowering.  This recipe is a definite keeper!  Would highly recommend!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2011-12-07",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "MzBlue"
+            },
+            "reviewBody": "This truly was easy and very yummy!",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2009-11-01",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "ksalemme"
+            },
+            "reviewBody": "This pie has wonderful flavor. Everyone loved it.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2012-11-22",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "K.Kircher"
+            },
+            "reviewBody": "I made this for Thanksgiving this year.  Everyone liked the hint of maple flavor in it.  I used fresh pumpkin instead of canned.  I would make this again.",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        }
+    ],
+    "recipeCuisine": "",
+    "aggregateRating": {
+        "@context": "http://schema.org/",
+        "@type": "AggregateRating",
+        "ratingValue": 4.827586,
+        "reviewCount": 29,
+        "worstRating": 1,
+        "bestRating": 5
+    }
+}
