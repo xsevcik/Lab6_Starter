@@ -134,7 +134,7 @@ class RecipeCard extends HTMLElement {
       ratingVal.textContent = ratingValue;
       ratingDiv.appendChild(ratingVal);
 
-      ratingStars.setAttribute('src', "/assets/images/icons/" + Math.round(ratingValue) + "-star.svg");
+      ratingStars.setAttribute('src', "https://raw.githubusercontent.com/xsevcik/Lab6_Starter/main/assets/images/icons/" + Math.round(ratingValue) + "-star.svg");
       ratingStars.setAttribute('alt', Math.round(ratingValue));
       ratingDiv.appendChild(ratingStars);
 
